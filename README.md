@@ -1,6 +1,6 @@
 # Study Tips and Techniques
 
-A collaborative guide by Francooxo, Kuriarobert41-debug and GithaeH
+A collaborative guide by [Francooxo, Kuriarobert41-debug and GithaeH]
 
 ## Table of Contents
 - [Introduction](#introduction)
