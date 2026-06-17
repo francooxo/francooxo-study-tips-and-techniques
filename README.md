@@ -7,7 +7,6 @@ A collaborative guide by [Your Name], [Teammate 2 Name], and [Teammate 3 Name].
 - [Active Recall](#active-recall)
 - [The Pomodoro Technique](#the-pomodoro-technique)
 - [Spaced Repetition](#spaced-repetition)
-- [Mind Mapping](#mind-mapping)
 
 ## Introduction
 This guide covers study techniques that can help students learn more effectively and retain information longer. Each section below is written by a different team member, based on a technique they researched and tried themselves.
@@ -51,5 +50,3 @@ It trains the brain to focus for short, intense periods and combats procrastinat
 ## Spaced Repetition
 <!-- GithaeH will write this section -->
 
-## Mind Mapping
-<!-- 4th member will write this section -->
